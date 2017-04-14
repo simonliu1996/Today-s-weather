@@ -1,7 +1,7 @@
 mail_settings = {
     'address': '13661369016@163.com',
     'pw': 'feather18er',
-    'smtp': 'post.example.com',
+    'smtp': 'applesmtp.163.com',
     'from': 'Mr.Liu Weather Robot'
 }
  

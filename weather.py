@@ -2,7 +2,8 @@
 import datetime
 import smtplib
 import requests
-import simplejson as json
+#import simplejson as json
+import json
 from email.mime.text import MIMEText
 from config import mail_settings, send_to_addresses, api_key
  
